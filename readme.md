@@ -10,7 +10,7 @@ Scope Project
  ( one more we provide user visite without login acc but can view infomation post from editor only )
  
  2. Admin can manage :
-    - Editor
+    - Verify Editor's post
     - User
     - Update Web ( Category , Test , Sponsor post , Page AboutUs , Page ContactUs and Update )
     - Show result Test from student
